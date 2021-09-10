@@ -1,12 +1,5 @@
 <h1 align="center">SQLAlchemy Homework - Surfs Up!</h1>
- 
-<style>
-    .column {
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
-</style>
+
 
 <h3 align="center">You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area.</h3>
 							
@@ -23,10 +16,10 @@
 <div class="row">
   <h2>Plots</h2>
   <div class="column">
-    <img src="resources/prev_year_hist.png" alt="Snow" style="width:100%">
+    <img src="resources/prev_year_hist.png" alt="Snow" style="width:50%;float:left;">
   </div>
   <div class="column">
-    <img src="resources/prev_year_prcp.png" alt="Forest" style="width:100%">
+    <img src="resources/prev_year_prcp.png" alt="Forest" style="width:50%;float:left;">
   </div>
 </div>			
         
@@ -34,12 +27,12 @@
 
 ### Analysis:
 	
-1. Precipitation Analysis
+        1. Precipitation Analysis
 
-2. Station Analysis
+        2. Station Analysis
 
-3. Temperature Analysis
+        3. Temperature Analysis
 
-4. Daily Rainfall Average
+        4. Daily Rainfall Average
 
-5. Daily Temperature Normals
+        5. Daily Temperature Normals
