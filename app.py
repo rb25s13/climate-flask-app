@@ -106,6 +106,8 @@ def startdate(start):
     ravg = session.query(func.avg(Measurement.tobs),Measurement.station,Measurement.date).\
                     filter(Measurement.date >= start).all()
 
+    session.close()
+
     return jsonify(rmin, rmax, ravg)
 
 
