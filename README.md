@@ -1,5 +1,17 @@
 <h1 align="center">SQLAlchemy Homework - Surfs Up!</h1>
 
+<details>
+<summary> Tools, Languages, & Libraries Utilized</summary>
+<li>Python</li>
+<li>Pandas</li>
+<li>NumPy</li>
+<li>Flask API</li>
+<li>datetime</li>
+<li>Matplotlib</li>
+<li>SQLAlchemy</li>
+<li>VS Code</li>
+<li>Jupyter Notebook</li>
+</details>
 
 <h3 align="center">You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area.</h3>
 							
@@ -13,15 +25,13 @@
         temp_analysis_bonus_2_starter.ipynb - historical data analysis for a specific week
 
 
-<div class="row">
-  <h2>Plots</h2>
-  <div class="column">
-    <img src="resources/prev_year_hist.png" alt="Snow" style="width:50%;float:left;">
-  </div>
-  <div class="column">
-    <img src="resources/prev_year_prcp.png" alt="Forest" style="width:50%;float:left;">
-  </div>
-</div>			
+### Charts: 
+
+
+<p align="center"><img src="resources/prev_year_hist.png"></p>
+
+
+<p align="center"><img src="resources/prev_year_prcp.png"></p>		
         
 
 
